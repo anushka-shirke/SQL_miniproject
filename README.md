@@ -1,4 +1,6 @@
-🎓 Mini SQL Project – Student Course Management System
+🎓 Mini SQL Project  
+Student Course Management System
+
 This repository contains a small-scale SQL project designed to demonstrate the core concepts of relational database design and basic SQL operations. The project models a student course management system, featuring students, courses, instructors, and enrollments.
 
 It's perfect for beginners who are learning SQL and want a practical, hands-on example of how database tables relate and interact with each other.
