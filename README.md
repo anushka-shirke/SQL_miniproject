@@ -12,10 +12,10 @@ Schema Design:
 
 Includes creation of normalized tables:
 
--students
--courses
--instructors
--enrollments
+  -students
+  -courses
+  -instructors
+  -enrollments
 
 -Relationships:
   Uses primary and foreign keys to establish relationships between entities.
@@ -32,13 +32,13 @@ Learning Objectives
 
 By exploring this project, you’ll learn how to:
 
--Design a basic relational database schema
+   -Design a basic relational database schema
 
--Implement relationships using foreign keys
+   -Implement relationships using foreign keys
 
--Write SQL statements for creating, inserting, and querying data
+   -Write SQL statements for creating, inserting, and querying data
 
--Use joins to retrieve meaningful insights from multiple tables
+   -Use joins to retrieve meaningful insights from multiple tables
 
 
 
@@ -47,11 +47,11 @@ File Structure:
 
 Contains full SQL code for: 
 
--Creating the database schema
+   -Creating the database schema
 
--Inserting data
+   -Inserting data
 
--Running sample queries
+   -Running sample queries
 
 
 
