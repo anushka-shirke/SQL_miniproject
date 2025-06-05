@@ -56,19 +56,4 @@ Contains full SQL code for:
 
 
 
-Requirements
 
--SQL-compatible environment (e.g., MySQL, PostgreSQL, SQLite)
-
--Any SQL client (MySQL Workbench, DBeaver, phpMyAdmin, or command line)
-
-
-Getting Started
-
--Clone or download this repository.
-
--Open the SQL_mini.sql file in your SQL environment.
-
--Execute the script to create tables and insert sample data.
-
--Run queries or modify the structure as needed for your learning.
