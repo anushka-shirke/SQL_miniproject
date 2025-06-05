@@ -6,7 +6,7 @@ Student Course Management System
 
 It's perfect for beginners who are learning SQL and want a practical, hands-on example of how database tables relate and interact with each other.
 
-~Project Features~
+~ Project Features ~
 
 Schema Design: 
 
@@ -26,6 +26,8 @@ Includes creation of normalized tables:
 -Basic Queries:
   Demonstrates inner joins and select queries to fetch combined data from multiple tables.
 
+
+
 Learning Objectives
 
 By exploring this project, you’ll learn how to:
@@ -37,6 +39,8 @@ By exploring this project, you’ll learn how to:
 -Write SQL statements for creating, inserting, and querying data
 
 -Use joins to retrieve meaningful insights from multiple tables
+
+
 
 File Structure:
  SQL_mini.sql
